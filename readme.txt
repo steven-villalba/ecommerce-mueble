@@ -7,6 +7,6 @@ en diferentes partes del ecommerce.
 
 * HTML
 * CSS
-* Responsive Design
+* Responsive Design.
 
 * [Enlace a la Página]()
